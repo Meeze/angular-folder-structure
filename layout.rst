@@ -97,6 +97,7 @@ Install
 ::
 
   mkdir src/app/layout
+  ng generate component layout/ContentLayout
   ng generate component layout/Header
   ng generate component layout/Footer
 
